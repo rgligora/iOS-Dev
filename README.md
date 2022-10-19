@@ -1,2 +1,2 @@
 # iOS Dev
- iOS development repository for XCode
+ iOS development repository for Xcode
